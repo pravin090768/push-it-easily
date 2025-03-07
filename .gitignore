@@ -1,0 +1,9 @@
+# Environments
+.env
+.venv
+
+#Python
+_pycache_
+
+# Unit test / coverage reports
+.pytest_cache
